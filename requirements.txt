@@ -1,0 +1,4 @@
+flask
+discord
+openai
+python-dotenv
